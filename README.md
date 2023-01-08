@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohan Boutelle</h1>
-- All of my projects are available on GitHub @rohanboutelle01
+- All of my projects are available on GitHub **@rohanboutelle01**
 
 - 🌱 I’m currently learning **Python JS CSS and HTML**
 
 - 🤝 I’m looking for help with **Python Projects**
 
-- All of my projects are available at **@rohanboutelle01**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
