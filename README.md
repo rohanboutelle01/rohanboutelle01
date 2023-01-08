@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Boutelle</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanboutelle" alt="rohanboutelle" /></a> </p>
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, JS, CSS, HTML**
 
 - 🤝 I’m looking for help with **Python Projects**
 
