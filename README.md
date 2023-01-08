@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Boutelle</h1>
-- 🌱 I’m currently learning **Python, JS, CSS, HTML**
+- 🌱 I’m currently learning **Python JS CSS and HTML**
 
 - 🤝 I’m looking for help with **Python Projects**
 
