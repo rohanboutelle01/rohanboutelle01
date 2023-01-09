@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Boutelle</h1>
-- All of my projects are available on GitHub [![@rohanboutelle01]([http://img.youtube.com/vi/nX_inqaAzOI/0.jpg](https://github.com/rohanboutelle01))]
+- All of my projects are available on GitHub [![@rohanboutelle01]([(https://github.com/rohanboutelle01]))]
 - 🌱 I’m currently learning **Python JS CSS and HTML**
 
 - 🤝 I’m looking for help with **Python Projects**
