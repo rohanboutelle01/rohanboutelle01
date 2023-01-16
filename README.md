@@ -15,5 +15,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanboutelle01&show_icons=true&theme=transparent)
 
 
-<h3 align="left">My Top Languages:</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunikm&layout=compact&theme=algolia)
