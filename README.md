@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Boutelle</h1>
+<h1 align="center">Hello 👋, I'm Rohan Boutelle</h1>
 - All of my projects are available on GitHub @rohanboutelle01
 
 - 🌱 I’m currently learning **Python JS CSS and HTML**
