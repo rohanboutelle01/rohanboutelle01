@@ -14,6 +14,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanboutelle01&show_icons=true&theme=transparent)
 
-<h3 align="left">My GitHub Stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanboutelle01&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanboutelle01&layout=compact&langs_count=8&theme=github_dark)
